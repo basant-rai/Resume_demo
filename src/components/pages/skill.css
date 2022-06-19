@@ -1,0 +1,117 @@
+#skill{
+
+    width: 80%;
+
+}
+@media screen and (max-width:600px) {
+    
+    .skill_text{
+      width: 100% !important;
+      text-align:none !important;
+
+    }
+    .experience_heading{
+      width:100% !important;
+      text-align:center;
+    }
+    .skill_img{
+      height:100px;
+      margin-top: 10px !important;
+      margin-left: 40px !important;
+
+    }
+    .skill_img img{
+      height:100px ;
+      width:fit-content;
+    }
+  }
+  @media screen and (min-width:600px) {
+    
+    .skill_text{
+      width: 100% !important;
+      text-align:none !important;
+
+    }
+    .experience_heading{
+      width:100% !important;
+      text-align:center;
+    }
+    .skill_img{
+      height:100px;
+      margin-top: 10px !important;
+      margin-left: 40px !important;
+
+    }
+    .skill_img img{
+      height:100px ;
+      width:fit-content;
+    }
+  }
+  @media screen and (min-width:900px) {
+    
+    .skill_text{
+      width: 100% !important;
+      text-align:none !important;
+
+    }
+    .experience_heading{
+      width:100% !important;
+      text-align:center;
+    }
+    .skill_img{
+      height:150px;
+      margin-top: 10px !important;
+      margin-left: 80px !important;
+
+    }
+    .skill_img img{
+      height:150px ;
+      width:fit-content;
+    }
+  }
+  @media screen and (min-width:1200px) {
+    
+    .skill_text{
+      width: 100% !important;
+      text-align:none !important;
+
+    }
+    .experience_heading{
+      width:100% !important;
+      text-align:center;
+    }
+    .skill_img{
+      height:200px;
+      margin-top: 10px !important;
+      margin-left: 100px !important;
+
+    }
+    .skill_img img{
+      height:200px ;
+      width:fit-content;
+    }
+  }
+  @media screen and (min-width:1900px) {
+    
+    .skill_text{
+      width: 100% !important;
+      text-align:none !important;
+
+    }
+    .experience_heading{
+      width:50% !important;
+      text-align:start;
+      height: 100%;
+      margin-top: 150px !important;
+    }
+    .skill_img{
+      height:250px;
+      margin-top: 10px !important;
+      margin-left: 260px !important;
+
+    }
+    .skill_img img{
+      height:250px ;
+      width:fit-content;
+    }
+  }

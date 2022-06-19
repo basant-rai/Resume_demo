@@ -1,0 +1,11 @@
+.footer_inner {
+  color: yellow !important;
+}
+@media screen and (max-width: 600px) {
+  .icons {
+    color: yellow !important;
+  }
+  .footer_box {
+    width: 90% !important;
+  }
+}
